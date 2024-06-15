@@ -22,3 +22,15 @@ c Some features like Glucose, Blood pressure , Insulin, BMI have zero values whi
 d There are zero NaN values in the dataset.
 e In the outcome column, 1 represents diabetes positive and 0 represents diabetes negative.
 ```
+
+# 0.4 RESULT ON TESTING OF DIFFERENT MACHINE LEARNING MODEL
+```
+Logistic Regression: 72.07792207792207
+K Nearest neighbors: 78.57142857142857
+Support Vector Classifier: 73.37662337662337
+Naive Bayes: 71.42857142857143
+Decision tree: 68.18181818181817
+Random Forest: 75.97402597402598
+
+Note: From the above comparison, we can observe that K Nearest neighbors gets the highest accuracy of 78.57 %
+```
